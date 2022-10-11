@@ -60,7 +60,7 @@ Domain model
 |         |                             | takeOff(@plane) | @String or undefined |
 
 
-### Getting Started
+### Getting Started
 
 To install the project , fork this repository and clone it to your local machine;
 Go to airport-challenge folder and find the src folder where the file airport.js is located, in this file is the code to be tested;
